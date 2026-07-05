@@ -1,0 +1,14 @@
+{
+  "name": "Sarooj HSE — Field",
+  "short_name": "HSE Field",
+  "description": "Offline HSE observation capture — syncs to the Sarooj HSE Platform.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1E3D",
+  "theme_color": "#0F1E3D",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
