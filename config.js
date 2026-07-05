@@ -6,7 +6,7 @@
 // ============================================================
 window.SAROOJ_PWA = {
   // e.g. https://script.google.com/macros/s/AKfyc.../exec
-  API_URL: 'https://script.google.com/macros/s/PLACEHOLDER_DEPLOYMENT_ID/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbyGwQdftXUc1EFQyESYMDjuj_x1shIftgx3lw_dboAd837GOsVbXRpTr9vZ-VwXufwB/exec',
   APP_NAME: 'Sarooj HSE — Field',
   VERSION: '1.0.0'
 };
